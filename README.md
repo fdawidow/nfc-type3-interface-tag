@@ -3,4 +3,4 @@ nfc-type3-interface-tag
 
 Drivers for the Sony RC-S801/802 NFC Dynamic Tag
 
-More to follow.
+More to follow...
