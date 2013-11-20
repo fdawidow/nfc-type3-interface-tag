@@ -4,6 +4,7 @@ nfc-type3-interface-tag
 Drivers for the Sony RC-S801/802 NFC Dynamic Tag
 
 See [LICENSE.txt](LICENSE.txt) for the license under which this software is made available.
+Note: This is the BSD 2-Clause License.
 
 Project folder structure:
 
