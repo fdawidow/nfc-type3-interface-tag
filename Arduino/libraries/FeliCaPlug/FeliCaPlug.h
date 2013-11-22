@@ -36,7 +36,7 @@
 /* --------------------------------
  * Constant
  * -------------------------------- */
-#ifdef DT_EUTEC_PIN_LAYOUT
+#ifdef FELICA_PLUG_ALTERNATIVE_PIN_LAYOUT
 #define FELICA_PLUG_SW_PIN          9
 #define FELICA_PLUG_SEL_PIN         4
 #define FELICA_PLUG_DATA_PIN        5
